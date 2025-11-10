@@ -1,0 +1,6 @@
+Columnas detectadas (heurística):
+year_col: Year
+department_col: None
+retention_col: Retention Rate (%)
+satisfaction_col: Student Satisfaction (%)
+term_col: Term
